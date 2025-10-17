@@ -1,2 +1,3 @@
 *out/
-*modules.xml
+*.iml
+*.xml
